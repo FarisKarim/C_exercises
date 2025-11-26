@@ -80,3 +80,4 @@ int main() {
 // 2.12
 // A.) x & 0xFF --> 0x00000021
 // B.) x ^ 0xFFF
+// C.) x | 0xFF
