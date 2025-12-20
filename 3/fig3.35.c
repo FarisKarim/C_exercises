@@ -1,5 +1,4 @@
-long rfact(long n)
-{
+long rfact(long n) {
     long result;
     if (n <= 1)
         result = 1;
